@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm a student at SDU university (internet name), and I'm currently learning Golang and looking for internship<br>
+        I'm a student at SDU university , and I'm currently learning Golang and looking for internship<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     
